@@ -1,0 +1,4 @@
+build/
+monotonic_align/*.so
+monotonic_align/*.pyd
+core.c
